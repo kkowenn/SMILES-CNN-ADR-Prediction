@@ -2,6 +2,7 @@
 
 A research project focused on developing explainable deep learning models for **adverse drug reaction (ADR) prediction** in pediatric oncology. The pipeline integrates **chemical structure data (SMILES, molecular fingerprints)** and **gene expression profiles** to classify compound sensitivity using multi-modal learning strategies.
 
+![image](format.jpg)
 
 ## Key Features:
 
