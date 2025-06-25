@@ -15,3 +15,5 @@ A comprehensive research project developing explainable machine learning models 
 
 **Research Impact:**
 Focus on precision oncology through data-driven drug sensitivity profiling, enabling personalized treatment strategies across diverse cancer subtypes with emphasis on model interpretability and clinical applicability.
+
+https://medium.com/@kritsadakruapat/4-graph-based-model-in-biology-k-hop-neighborhoods-meta-paths-subgraphs-and-attention-fb157949c077
